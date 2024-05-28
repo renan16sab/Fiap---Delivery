@@ -9,7 +9,7 @@ Tech Challenge da primeira unidade do curso de Arquitetura de Software.
 Criar uma solução para uma lanchonete que está expandindo. Então, foi criado um sistema de autoatendimento para o controle de pedidos para que a lanchonete consiga ter mais eficiencia e satisfação dos clientes.
 ## Instalação
 
-Instalação do projeto
+Execução do projeto
 
 ```bash
   docker-compose -f mysql-docker-compose.yml up -d
@@ -17,9 +17,7 @@ Instalação do projeto
 
 Abrirá 3 imagens: 
 
-- O SGBD phpMyAdmin,
-- O Banco MySQL,
-- e a aplicação JAVA;
+- O SGBD phpMyAdmin, o Banco MySQL e a aplicação JAVA;
 
 
 - Banco de dados (Disponivel na rota): http://localhost:8000/index.php?route=/&route=%2F&db=delivery_db&table=produto
