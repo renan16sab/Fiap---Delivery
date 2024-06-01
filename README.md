@@ -19,6 +19,7 @@ Abrirá 3 imagens:
 
 - O SGBD phpMyAdmin, o Banco MySQL e a aplicação JAVA;
 
+OBS: Lembrando que para algumas inserções, será necessário cadastrar uma Categoria
 
 - Banco de dados (Disponivel na rota): http://localhost:8000/index.php?route=/&route=%2F&db=delivery_db&table=produto
 - Swagger (Disponivel com a execução do projeto na rota): http://localhost:8080/swagger-ui/index.html
